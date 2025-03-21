@@ -15,5 +15,8 @@
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
-    border: 2px solid rebeccapurple;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+    
  }
